@@ -10,8 +10,6 @@ accountPassword ="45474"
 accountCity = "Delhi"
 
 
-console.log(accountEmail)
+// console.log(accountEmail)
 // console.log(account_Id)
-
-console.log(accountPassword)
-console.log(accountCity) 
+console.table([account_Id, accountEmail, accountPassword, accountCity])
