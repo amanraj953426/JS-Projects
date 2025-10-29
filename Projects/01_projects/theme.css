@@ -1,0 +1,14 @@
+button{
+    width: 100px;
+    height: 100px;
+    /* padding: 50px; */
+    margin: 10px;
+    border: 10px orange;
+    color: aliceblue;
+}
+
+#gray{background-color: gray;}
+#yellow{background-color: yellow;}
+#red{background-color: rgb(206, 109, 109);}
+#green{background-color: rgb(51, 77, 51);}
+#black{background-color: black;}

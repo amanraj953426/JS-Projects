@@ -1,0 +1,18 @@
+*{
+    /* margin: 0px;
+    padding: 0px; */
+    text-decoration: none;
+}
+
+div{
+height: 500px;
+width: 500px;
+/* padding-top: 200px;
+padding-left: 300px; */
+margin: auto;
+/* background-color: grey; */
+}
+.btn{
+    font-size: 30px;
+    text-align: center;
+}
