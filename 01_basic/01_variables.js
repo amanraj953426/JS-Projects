@@ -13,3 +13,9 @@ accountCity = "Delhi"
 // console.log(accountEmail)
 // console.log(account_Id)
 console.table([account_Id, accountEmail, accountPassword, accountCity])
+
+const fun = function(num){
+    return num+num
+}
+
+fun()
