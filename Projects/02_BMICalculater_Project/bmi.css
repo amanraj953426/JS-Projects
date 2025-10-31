@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    text-align: center;
+    padding-top: 200px;
+}
+
+p{
+    padding: 20px;
+    /* height: 15px; */
+}
+input{
+    height: 20px;
+    /* margin: 5px; */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: black;
+}
+#result{
+    padding-top: 20px;
+    border-radius: 5px;
+}
