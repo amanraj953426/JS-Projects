@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header */
+/* header */
+
+#home {
+    float: left;
+    margin-left: 150px;
+    margin-top: 12px;
+
+}
+
+#github {
+    margin-left: 150px;
+    padding-top: 12px;
+
+}
+
+.outer-div {
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding-top: 200px;
+padding-left: 300px; */
+    /* background-color: grey; */
+}
+
+.container {
+    text-align: center;
+    height: 50px;
+    width: 900px;
+    background-color: cadetblue;
+    margin-bottom: 50px;
+    color: black;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    /* border: 3px solid orange; */
+    /* background: transparent; */
+    /* background-color: aqua; */
+    color: black;
+    font-size: 20px;
+
+}
