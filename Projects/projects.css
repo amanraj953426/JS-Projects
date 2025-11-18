@@ -6,7 +6,7 @@
 
 .outer-div {
     text-align: center;
-    height: 500px;
+    height: 800px;
     width: 1000px;
     /* padding-top: auto; */
     padding-left: 300px;
@@ -15,6 +15,7 @@
 
 .btn {
     font-size: 30px;
+    /* float: left; */
     text-align: center;
 }
 
@@ -23,7 +24,14 @@
     width: 900px;
     background-color: cadetblue;
     margin-bottom: 50px;
+    text-align: center;
     color: black;
+}
+
+.header {
+    height: 50px;
+    width: 450px;
+    float: left;
 }
 
 #home {
@@ -32,10 +40,15 @@
 
 }
 
+button {
+    font-weight: normal;
+    width: 450px;
+}
+
 a {
     height: 40px;
     width: 450px;
-    float: left;
+    /* float: left; */
     text-align: center;
     margin-top: 12px;
     text-decoration: none;
