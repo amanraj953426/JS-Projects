@@ -41,3 +41,16 @@ a {
     font-size: 20px;
 
 }
+
+/* keyPress Project */
+
+.keycode {
+    margin: auto;
+    width: 14%;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
